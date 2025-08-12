@@ -13,7 +13,7 @@
 
   <!-- Duplicate this block for more badges -->
   <div style="border:1px solid #ddd;border-radius:8px;padding:10px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,0.05);background:#fff;width:150px;">
-    <img src="https://placehold.co/100x100/png" alt="Badge Title" style="width:100px;height:100px;object-fit:contain;margin-bottom:8px;">
+    <img src="https://i.redd.it/xdlf1lqhfwt81.png" alt="Badge Title" style="width:100px;height:100px;object-fit:contain;margin-bottom:8px;">
     <div style="font-weight:bold;font-size:14px;">Badge Title</div>
     <div style="font-size:12px;color:#555;">Issued: Aug 2024</div>
     <div style="font-size:12px;color:#555;">By: Example Org</div>
