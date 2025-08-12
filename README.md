@@ -1,25 +1,46 @@
-<h2>🏆 Recognition Badges</h2>
+# 🏆 Recognition Badges
 
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;">
-
-  <!-- Badge Card -->
-  <div style="border:1px solid #ddd;border-radius:8px;padding:10px;text-align:center;background:#fff;box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Made with Linux" style="width:100px;height:100px;object-fit:contain;margin-bottom:8px;">
-    <div style="font-weight:bold;font-size:14px;">Made with Linux</div>
-    <div style="font-size:12px;color:#555;">Issued: Aug 2024</div>
-    <div style="font-size:12px;color:#555;">By: Example Org</div>
-    <div style="font-size:12px;"><a href="#">View credential</a></div>
-  </div>
-
-  <!-- Another Badge Card -->
-  <div style="border:1px solid #ddd;border-radius:8px;padding:10px;text-align:center;background:#fff;box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Badge Title" style="width:100px;height:100px;object-fit:contain;margin-bottom:8px;">
-    <div style="font-weight:bold;font-size:14px;">Badge Title</div>
-    <div style="font-size:12px;color:#555;">Issued: Aug 2024</div>
-    <div style="font-size:12px;color:#555;">By: Example Org</div>
-    <div style="font-size:12px;"><a href="#">View credential</a></div>
-  </div>
-
-  <!-- Repeat for more badges -->
-
-</div>
+<table>
+  <tr>
+    <!-- Badge 1 -->
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="https://placehold.co/100x100" width="80"><br>
+      <b>Made with Linux</b><br>
+      <sub>Issued: Aug 2024</sub><br>
+      <sub>By: Example Org</sub><br>
+      <a href="#">View credential</a>
+    </td>
+    
+    <!-- Badge 2 -->
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="https://placehold.co/100x100" width="80"><br>
+      <b>Badge Title</b><br>
+      <sub>Issued: Aug 2024</sub><br>
+      <sub>By: Example Org</sub><br>
+      <a href="#">View credential</a>
+    </td>
+    
+    <!-- Badge 3 -->
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="https://placehold.co/100x100" width="80"><br>
+      <b>Another Badge</b><br>
+      <sub>Issued: Sep 2024</sub><br>
+      <sub>By: Different Org</sub><br>
+      <a href="#">View credential</a>
+    </td>
+    
+    <!-- Add more badges (up to 6 per row) -->
+  </tr>
+  
+  <!-- Start new row after 6 badges -->
+  <tr>
+    <!-- Badge 7 -->
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="https://placehold.co/100x100" width="80"><br>
+      <b>Next Row Badge</b><br>
+      <sub>Issued: Oct 2024</sub><br>
+      <sub>By: New Org</sub><br>
+      <a href="#">View credential</a>
+    </td>
+  </tr>
+</table>
