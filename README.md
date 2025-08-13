@@ -37,8 +37,8 @@
         <sub>Issued: Oct 2024</sub><br />
         <sub>By: New Org</sub><br />
         <a href="#">View credential</a>
-      </td> </tr>center>
+      </td> </tr>
     </tr>
   </tbody>
-</table>
+</table></center>
 
