@@ -5,9 +5,9 @@
     <tr>
       <td style="padding: 10px;" align="center" width="150">
         <img src="https://images.squarespace-cdn.com/content/v1/5530dddfe4b0679504639dc1/1663518716700-IT2WA6XU3A7LB0UQG8XG/Screenshot_2.jpg" width="80" /><br />
-        <strong>ML</strong><br />
+        <strong>AI-ML</strong><br />
         <sub>Issued: May 12, 2024</sub><br />
-        <sub>By: AI-IBM</sub><br />
+        <sub>By: IBM Network</sub><br />
         <a href="https://www.credly.com/badges/66ebe10f-3da0-4410-b0d1-7f17ce833208">View credential</a>
       </td>
       <td style="padding: 10px;" align="center" width="150">
