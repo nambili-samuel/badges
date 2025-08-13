@@ -12,7 +12,7 @@
       <a href="#">View credential</a>
      </td>
 
-        <!-- Badge 4 -->
+        <!-- Badge 41 -->
     <td align="center" width="150" style="padding: 10px;">
       <img src="https://i.redd.it/xdlf1lqhfwt81.png" width="80"><br>
       <b>Next Row Badge</b><br>
