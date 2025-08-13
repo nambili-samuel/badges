@@ -18,10 +18,10 @@
         <a href="#">View credential</a>
       </td>
       <td style="padding: 10px;" align="center" width="150">
-        <img src="https://i.redd.it/xdlf1lqhfwt81.png" width="80" /><br />
-        <strong>Next Row Badge</strong><br />
-        <sub>Issued: Oct 2024</sub><br />
-        <sub>By: New Org</sub><br />
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" /><br />
+        <strong>Cybersecurity</strong><br />
+        <sub>Issued: April 13, 2025</sub><br />
+        <sub>By: CISCO</sub><br />
         <a href="#">View credential</a>
       </td>
          <td style="padding: 10px;" align="center" width="150">
