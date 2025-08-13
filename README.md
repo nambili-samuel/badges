@@ -1,6 +1,6 @@
 <p># 🏆 Recognition Badges</p>
 
-<table>
+<center><table>
   <tbody>
     <tr>
       <td style="padding: 10px;" align="center" width="150">
@@ -37,7 +37,7 @@
         <sub>Issued: Oct 2024</sub><br />
         <sub>By: New Org</sub><br />
         <a href="#">View credential</a>
-      </td>
+      </td> </tr>center>
     </tr>
   </tbody>
 </table>
