@@ -1,4 +1,4 @@
-<p># 🏆 Recognition Badges</p>
+# 🏆 Recognition Badges
 
 <center><table>
   <tbody>
