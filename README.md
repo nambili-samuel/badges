@@ -12,9 +12,9 @@
       </td>
       <td style="padding: 10px;" align="center" width="150">
         <img src="https://github.com/nambili-samuel/certifications/blob/main/WHO.jpg" width="80" /><br />
-        <strong>Next Row Badge</strong><br />
-        <sub>Issued: Oct 2024</sub><br />
-        <sub>By: New Org</sub><br />
+        <strong>AI for Healthcare</strong><br />
+        <sub>Issued: October 20, 2024</sub><br />
+        <sub>By: WHO</sub><br />
         <a href="#">View credential</a>
       </td>
       <td style="padding: 10px;" align="center" width="150">
