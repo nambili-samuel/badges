@@ -33,10 +33,10 @@
       </td>
           <td style="padding: 10px;" align="center" width="150">
         <img src="https://github.com/nambili-samuel/certifications/blob/main/Cpanel.png" width="80" /><br />
-        <strong>Next Row Badge</strong><br />
-        <sub>Issued: Oct 2024</sub><br />
-        <sub>By: New Org</sub><br />
-        <a href="#">View credential</a>
+        <strong>Web Admin</strong><br />
+        <sub>Issued: July 30, 2025</sub><br />
+        <sub>By: cPanel University</sub><br />
+        <a href="https://university.cpanel.net/certificate/0872fefd-6986-47a2-be13-ed5c2e496580">View credential</a>
       </td> </tr>
     </tr>
   </tbody>
