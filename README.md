@@ -32,7 +32,7 @@
         <a href="https://www.credly.com/badges/9b4fab4d-f0f0-4f85-be10-837cbc6f64ce">View credential</a>
       </td>
           <td style="padding: 10px;" align="center" width="150">
-        <img src="https://i.redd.it/xdlf1lqhfwt81.png" width="80" /><br />
+        <img src="https://github.com/nambili-samuel/certifications/blob/main/Cpanel.png" width="80" /><br />
         <strong>Next Row Badge</strong><br />
         <sub>Issued: Oct 2024</sub><br />
         <sub>By: New Org</sub><br />
